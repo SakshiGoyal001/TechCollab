@@ -2,10 +2,10 @@
 
 Welcome to TechCollab, a platform designed to foster collaboration and innovation within the Thapar Institute of Engineering and Technology community.
 
-##Purpose
+## Purpose
 This project aims to create a dedicated space for students, professors, and mentors at Thapar Institute to collaborate on technology projects. By streamlining project discovery, networking opportunities, and mentorship connections, TechCollab aspires to cultivate an ecosystem that promotes knowledge sharing, mutual support, and technological advancement.
 
-##Scope
+## Scope
 TechCollab is an online platform tailored for the Thapar Institute community, enabling users to:
 
 Register and create personalized profiles
@@ -14,7 +14,7 @@ Discover and filter projects by branch and subtopic
 Connect with mentors
 Showcase ongoing and completed projects
 
-##Features
+## Features
 1. Seamless Registration and Unique User Identification
 Unified login page for students, faculty, and admin
 Email-based differentiation to simplify the login process
@@ -32,7 +32,7 @@ Robust search functionality for projects, users, or content
 6. Project Contribution
 Easy project upload with detailed descriptions and external resource links
 
-##Future Enhancements
+## Future Enhancements
 Notification system for updates and announcements
 Trending section for popular projects
 Collaboration request system
@@ -41,7 +41,7 @@ Project progress tracking
 Resource library with tutorials and documentation
 Advanced search filters
 
-##User Roles
+## User Roles
 Students
 Undergraduate and graduate students from various disciplines
 Faculty
