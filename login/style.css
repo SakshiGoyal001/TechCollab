@@ -1,0 +1,259 @@
+.desktop-login {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop-login .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.desktop-login .overlap {
+  position: absolute;
+  width: 1441px;
+  height: 963px;
+  top: 63px;
+  left: 0;
+}
+
+.desktop-login .footer {
+  position: absolute;
+  width: 1441px;
+  height: 108px;
+  top: 855px;
+  left: 0;
+  background-color: #f9dfc7;
+}
+
+.desktop-login .text-wrapper {
+  position: absolute;
+  top: 38px;
+  left: 522px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #4b4141;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-login .body {
+  position: absolute;
+  width: 1439px;
+  height: 859px;
+  top: 0;
+  left: 1px;
+}
+
+.desktop-login .overlap-group {
+  position: relative;
+  width: 1271px;
+  height: 856px;
+  top: 1px;
+  left: 84px;
+  background-image: url(./img/image-3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop-login .image {
+  position: absolute;
+  width: 654px;
+  height: 594px;
+  top: 140px;
+  left: 71px;
+  object-fit: cover;
+}
+
+.desktop-login .logintab {
+  position: absolute;
+  width: 509px;
+  height: 385px;
+  top: 39px;
+  left: 687px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+.desktop-login .frame {
+  position: absolute;
+  width: 509px;
+  height: 103px;
+  top: 282px;
+  left: 0;
+  background-color: #fffced;
+}
+
+.button-style {
+  position: relative;
+  width: 115px;
+  height: 46px;
+  top: 29px;
+  left: 337px;
+  background-color: #eeb166;
+  border-radius: 15px;
+  border-color: #eeb166;
+}
+
+
+.desktop-login .text-wrapper-2 {
+  
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  
+}
+
+
+
+.desktop-login .password {
+  position: absolute;
+  width: 382px;
+  height: 60px;
+  top: 193px;
+  left: 60px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 0.5px solid;
+  border-color: #a29d9d80;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+
+.desktop-login .password-input {
+  
+  width: 382px;
+  height: 60px;
+  top: 193px;
+  left: 60px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 0.5px solid;
+  border-color: #a29d9d80;
+  backdrop-filter: blur(4px) brightness(100%);
+  text-align: center;
+  font-size: 25px;
+  font-family: "Inter", Helvetica;
+ 
+}
+
+
+.desktop-login .text-wrapper-3 {
+  position: absolute;
+  top: 16px;
+  left: 50px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #8d8b8b;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop-login .icon-lock {
+  position: absolute;
+  width: 14px;
+  height: 20px;
+  top: 19px;
+  left: 15px;
+}
+
+.desktop-login .icon-eye {
+  width: 24px;
+  left: 343px;
+  position: absolute;
+  height: 18px;
+  top: 20px;
+}
+
+
+
+.desktop-login .username-input {
+  
+  width: 382px;
+  height: 60px;
+  top: 102px;
+  left: 60px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 0.5px solid;
+  border-color: #a29d9d80;
+  backdrop-filter: blur(4px) brightness(100%);
+  text-align: center;
+  font-size: 25px;
+  font-family: "Inter", Helvetica;
+  
+}
+
+.desktop-login .rollno {
+  position: absolute;
+  width: 382px;
+  height: 60px;
+  top: 102px;
+  left: 60px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 0.5px solid;
+  border-color: #a29d9d80;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+
+
+
+.desktop-login .icon-user {
+  width: 15px;
+  left: 11px;
+  position: absolute;
+  height: 18px;
+  top: 20px;
+}
+
+.desktop-login .text-wrapper-4 {
+  position: absolute;
+  width: 150px;
+  top: 14px;
+  left: 41px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #979797;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-login .text-wrapper-5 {
+  position: absolute;
+  width: 196px;
+  top: 18px;
+  left: 17px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  color: #220f02;
+  font-size: 37px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop-login .header {
+  position: absolute;
+  width: 1440px;
+  height: 63px;
+  top: 0;
+  left: 0;
+}

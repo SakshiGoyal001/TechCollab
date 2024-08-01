@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="desktop-login">
+      <div class="div">
+        <div class="overlap">
+          <footer class="footer"><p class="text-wrapper">Copyright 2023, All Right Reserved</p></footer>
+          <div class="body">
+            <div class="overlap-group">
+              <img class="image" src="/login/img/image-2.png" />
+              <div class="logintab">
+                
+                <div class="frame">    
+                  <button class="button-style" onclick=login()>
+                      <div class="text-wrapper-2">Next</div>
+                    </button>      
+                </div>
+                
+
+
+                <div class="password">
+                  <div class="text-wrapper-3">Password</div>
+                  <input type="password" required id="password" class="password-input" placeholder="Enter your password" />
+                  <img class="icon-lock" src="img/icon-lock-1.png" />
+                </div>
+                <div class="rollno">
+                  <div class="text-wrapper-4"></div>
+                  <input
+                    type="text"
+                    class="username-input"
+                    id="username"
+                    placeholder="Enter your Roll Number/ID"
+                    id="rollno" 
+                    name="rollno"
+                    oninput="validateRollNumber()"  
+                  />
+                  <img class="icon-user" src="img/icon-user.png" alt="User icon" />
+                  <p class="error" id="rollnoError" style="color: red; font-size: small; text-align: center;"></p>
+                </div>
+
+                <div class="text-wrapper-5">Sign-in</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <img class="header" src="img/header.svg" />
+      </div>
+    </div>
+
+    <script src="login.js"></script>
+  </body>
+</html>
+
+
