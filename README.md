@@ -53,20 +53,24 @@ TechCollab is an online platform tailored for the Thapar Institute community, en
 ## User Roles
 
 ### Students
-- Undergraduate and graduate students from various disciplines
+
+Undergraduate and graduate students from various disciplines
 
 ### Faculty
-- Professors, lecturers, and academic staff engaged in teaching and research
+
+Professors, lecturers, and academic staff engaged in teaching and research
 
 ### General Users
-- Alumni, industry professionals, and the wider community interested in technology and innovation
+
+Alumni, industry professionals, and the wider community interested in technology and innovation
 
 ### Admin
-- Platform administrators managing projects and user interactions
+
+Platform administrators managing projects and user interactions
 
 
 ## Current Status
 
-**Note:** This project is in its initial development stages and focuses primarily on the front-end functionalities. The backend and database components are currently not implemented. 
+**Note:** This project is in its initial development stages and focuses primarily on the front-end functionalities. The backend and database components are currently not implemented completely. 
 
 
